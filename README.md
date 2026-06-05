@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=160&section=header&text=Gede%20Deva%20Dharma&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Bali%2C%20Indonesia&descAlignY=75&descSize=16&animation=fadeIn"/>
+
+  
+<img src="./assets/header.svg" width="100%"/>
 
 
 ## 🩻 &nbsp;Tech Skills
@@ -73,5 +75,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gede-deva-dharma&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=100&section=footer&animation=fadeIn&reversal=true"/>
+<img src="./assets/footer.svg" width="100%"/>
 </div>
