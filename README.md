@@ -1,147 +1,166 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=header&animation=fadeIn"/>
-</div>
 
-```
-  ____  _          ____
- / ___|| | ___   _|  _ \  _____   __
- \___ \| |/ / | | | | | |/ _ \ \ / /
-  ___) |   <| |_| | |_| |  __/\ V /
- |____/|_|\_\\__, |____/ \___| \_/
-              |___/
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gede%20Deva%20Dharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Systems%20Programmer&descAlignY=55&descSize=18&animation=fadeIn"/>
+
+</div>
 
 <div align="center">
 
-<a href="https://github.com/gede-deva-dharma">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Gede+Deva+Dharma+%C2%B7+SkyDev;Full-Stack+Developer+%26+Systems+Programmer" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-![Status](https://img.shields.io/badge/%E2%97%8F%20Available_for_Collaboration-161b22?style=flat-square&labelColor=161b22&color=3fb950&logo=statuspage&logoColor=3fb950)
-![Location](https://img.shields.io/badge/Bali%2C_Indonesia-161b22?style=flat-square&logo=googlemaps&logoColor=58a6ff)
-![Open Source](https://img.shields.io/badge/Open_Source_Enthusiast-161b22?style=flat-square&logo=github&logoColor=8b949e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+elegant+web+experiences+%F0%9F%8C%8A;Systems+programmer+%26+UI+architect+%E2%9A%A1;Open+for+collaboration+%F0%9F%A4%9D;Based+in+Bali%2C+Indonesia+%F0%9F%8C%B4)](https://github.com/gede-deva-dharma)
 
 </div>
 
+<div align="center">
+
+![](https://img.shields.io/badge/-%F0%9F%9F%A2%20Available%20for%20Collab-0d1117?style=for-the-badge&labelColor=0d1117&color=238636&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Bali%2C%20Indonesia-%F0%9F%8C%B4-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb)
+&nbsp;
+![](https://img.shields.io/badge/Open%20Source%20Lover-%E2%9D%A4-0d1117?style=for-the-badge&labelColor=0d1117&color=da3633)
+
+</div>
+
+<br/>
+
 ---
+
+## 👤 &nbsp;About Me
 
 ```
 ~/portfolio $ cat about.txt
 ```
 
-> Seorang developer yang berfokus pada membangun pengalaman web yang cepat,
-> elegan, dan mudah digunakan. Saya menulis kode yang bersih, scalable,
-> dan bermakna — dari antarmuka pengguna hingga logika sistem tingkat rendah.
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   Name     :  Gede Deva Dharma  (SkyDev)                                   │
+│   Role     :  Full-Stack Developer & Systems Programmer                     │
+│   Location :  Bali, Indonesia                                               │
+│   Focus    :  Web Development · UI/UX · System Programming                  │
+│   Status   :  ● Building cool things...                                     │
+│                                                                             │
+│   "Saya membangun antarmuka yang indah dan sistem yang tangguh —            │
+│    dari pixel pertama hingga baris terakhir kode."                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
+
+## 🛠 &nbsp;Tech Stack
 
 ```
 ~/portfolio $ ls --skills
 ```
 
-**Frontend**
-
-| Skill | Level |
-|:------|:------|
-| `HTML5` | `████████████████████░░░` 88% |
-| `CSS3` | `███████████████████░░░░` 85% |
-| `JavaScript` | `█████████████████████░░` 90% |
-
-**Backend & Systems**
-
-| Skill | Level |
-|:------|:------|
-| `Python` | `████████████████████░░░` 80% |
-| `C++` | `███████████████████░░░░` 78% |
-
----
-
-```
-~/portfolio $ cat tools.txt
-```
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark&perline=6"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,nodejs,fastapi,git,docker&theme=dark&perline=6"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,linux,figma,postman,github,bash&theme=dark&perline=6"/>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 &nbsp;GitHub Stats
+
 ```
-~/portfolio $ github-stats --user=gede-deva-dharma
+~/portfolio $ github-stats --fetch
 ```
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=gede-deva-dharma&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=79c0ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&custom_title=GitHub+Stats"/>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=gede-deva-dharma&theme=github-dark-blue&background=0d1117&ring=79c0ff&fire=ff7b72&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=79c0ff&sideLabels=79c0ff&dates=6e7681&hide_border=true&border_radius=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gede-deva-dharma&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gede-deva-dharma&theme=github-dark-blue&background=0d1117&ring=00d9ff&fire=ff7b72&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6e7681&hide_border=true&border_radius=10"/>
 
-<br/>
+</div>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-deva-dharma&layout=compact&theme=github_dark&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&hide_border=true&border_radius=8&langs_count=6&custom_title=Most+Used+Languages"/>
+<div align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-deva-dharma&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&hide_border=true&border_radius=10&langs_count=6"/>
 
 </div>
 
 ---
 
+## 📈 &nbsp;Contribution Graph
+
 ```
-~/portfolio $ activity-graph --render
+~/portfolio $ activity-graph --year=2026
 ```
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gede-deva-dharma&theme=github-compact&bg_color=0d1117&color=58a6ff&line=79c0ff&point=e6edf3&area=true&hide_border=true&custom_title=Contribution+Timeline"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gede-deva-dharma&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/gede-deva-dharma)
+
 </div>
 
 ---
 
+## 🐍 &nbsp;Contribution Snake
+
 ```
-~/portfolio $ snake-contrib --play
+~/portfolio $ snake-contrib --animate
 ```
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
 </div>
 
 ---
+
+## 📬 &nbsp;Contact
 
 ```
 ~/portfolio $ cat contact.txt
 ```
 
 ```
-github   → github.com/gede-deva-dharma
-email    → gededevadharma@gmail.com
-linkedin → linkedin.com/in/gede-deva-dharma
-location → Bali, Indonesia
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   github    →  github.com/gede-deva-dharma          │
+│   email     →  gededevadharma@gmail.com             │
+│   linkedin  →  linkedin.com/in/gede-deva-dharma     │
+│   location  →  Bali, Indonesia  🌴                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/gede-deva-dharma">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gededevadharma@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/gede-deva-dharma">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gede-deva-dharma)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gededevadharma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gede-deva-dharma)
 
-<br/><br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gede-deva-dharma&style=flat-square&color=161b22&labelColor=0d1117&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=gede-deva-dharma&style=for-the-badge&color=0d1117&labelColor=0d1117&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn"/>
 
 </div>
