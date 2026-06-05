@@ -1,236 +1,167 @@
 <div align="center">
-  
-  <!-- TERMINAL HEADER -->
-  <pre>
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║                                                                           ║
-  ║    ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗    ║
-  ║    ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝    ║
-  ║    ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██║  ██║█████╗      ║
-  ║    ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝      ║
-  ║    ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██████╔╝███████╗    ║
-  ║    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝    ║
-  ║                                                                           ║
-  ║                   ┌─────────────────────────────────────┐                 ║
-  ║                   │  GEDE DEVA DHARMA  ›  CODE ARCHITECT │                 ║
-  ║                   └─────────────────────────────────────┘                 ║
-  ║                                                                           ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
-  </pre>
-  
-  <!-- TYPING SIMULATION -->
-  <pre>
-  <span style="color:#00ff00;">$></span> <span style="color:#ffffff;">whoami</span>
-  <span style="color:#00ff00;">└─></span> <span style="color:#aaaaaa;">Full-Stack Developer | System Programmer | UI/UX Architect</span>
-  
-  <span style="color:#00ff00;">$></span> <span style="color:#ffffff;">cat location.txt</span>
-  <span style="color:#00ff00;">└─></span> <span style="color:#aaaaaa;">Bali, Indonesia / Remote World Wide</span>
-  
-  <span style="color:#00ff00;">$></span> <span style="color:#ffffff;">./status --current</span>
-  <span style="color:#00ff00;">└─></span> <span style="color:#aaaaaa;">Building next-gen web experiences</span>
-  <span style="color:#00ff00;">    ></span> <span style="color:#aaaaaa;">Mastering: Next.js 15, Python 3.13, C++23</span>
-  <span style="color:#00ff00;">    ></span> <span style="color:#aaaaaa;">Exploring: WebAssembly, Edge Computing</span>
-  </pre>
-  
-  <!-- VISITOR COUNTER - TERMINAL STYLE -->
-  <pre>
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║  <span style="color:#00ff00;">[SYSTEM]</span> >_ PROFILE ACCESS COUNT: <span style="color:#00ff00;">$(curl -s https://komarev.com/ghpvc/?username=gede-deva-dharma | grep -oP '\d+')</span>  ║
-  ║  <span style="color:#00ff00;">[STATUS]</span> >_ ACTIVE SINCE: 2026-05-29                                    ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
-  </pre>
-  
+
+<!-- ANIMATED HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a3e,100:0d0d2b&height=120&section=header&animation=fadeIn"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/gede-deva-dharma">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=6EE7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Gede+Deva+Dharma;Full-Stack+%26+Systems+Programmer;Building+elegant+solutions" alt="Typing Animation"/>
+</a>
+
+<br/>
+
+<!-- PROFILE BADGE -->
+<img src="https://img.shields.io/badge/SkyDev-0a0a1a?style=for-the-badge&logo=github&logoColor=6EE7F7&labelColor=0a0a1a&color=1a1a3e"/>
+<img src="https://img.shields.io/badge/Bali%2C_Indonesia-0a0a1a?style=for-the-badge&logo=googlemaps&logoColor=6EE7F7&labelColor=0a0a1a&color=1a1a3e"/>
+<img src="https://img.shields.io/badge/Open_to_Collaborate-0a0a1a?style=for-the-badge&logo=handshake&logoColor=6EE7F7&labelColor=0a0a1a&color=1a1a3e"/>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=gede-deva-dharma&style=for-the-badge&color=1a1a3e&labelColor=0a0a1a&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
-## 💻 **TECH STACK TERMINAL**
+<div align="center">
 
-```bash
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                              TECHNOLOGY STACK                               │
-╰─────────────────────────────────────────────────────────────────────────────╯
+## `> about_me.init()`
 
-┌───┬──────────────────┬──────────────────────────────────────────┬──────────┐
-│ # │ CATEGORY         │ TECH                                     │ LEVEL    │
-├───┼──────────────────┼──────────────────────────────────────────┼──────────┤
-│ 1 │ FRONTEND         │ HTML5 ████████████████████░░░░░░  85%    │
-│   │                  │ CSS3  ████████████████████░░░░░░  85%    │
-│   │                  │ JS    ████████████████████████░░  90%    │
-├───┼──────────────────┼──────────────────────────────────────────┼──────────┤
-│ 2 │ FRAMEWORK        │ Next.js ████████████████████████  95%    │
-│   │                  │ React   ████████████████████████  90%    │
-├───┼──────────────────┼──────────────────────────────────────────┼──────────┤
-│ 3 │ BACKEND          │ Python ████████████████████░░░░  80%     │
-│   │                  │ Node   ████████████████████░░░░  75%     │
-├───┼──────────────────┼──────────────────────────────────────────┼──────────┤
-│ 4 │ SYSTEMS          │ C++ ████████████████████████░░░  85%     │
-│   │                  │ Rust ████████████░░░░░░░░░░░░░  50%      │
-└───┴──────────────────┴──────────────────────────────────────────┴──────────┘
+</div>
 
-$> echo $PATH
-/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/gede/deva/dharma/bin
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                          INTERACTIVE COMMAND MENU                           │
-╰─────────────────────────────────────────────────────────────────────────────╯
+```typescript
+const developer = {
+  name    : "Gede Deva Dharma",
+  alias   : "SkyDev",
+  location: "Bali, Indonesia 🌴",
+  role    : "Full-Stack Developer & Systems Programmer",
+  focus   : ["Web Development", "System Programming", "UI/UX"],
+  status  : "⚡ Building cool things...",
+  
+  languages : ["HTML", "CSS", "JavaScript", "Python", "C++"],
+  
+  currentlyLearning : ["WebAssembly", "Rust", "Three.js"],
+  openTo            : ["Collaborations", "Freelance", "Open Source"],
 
-$> ./select_option --menu
+  funFact : "I debug with console.log and I'm not ashamed 😄",
+};
+```
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  [1]  › view_github_stats     - Display GitHub analytics                   │
-│  [2]  › list_projects          - Show featured repositories                 │
-│  [3]  › show_skills            - Technical competencies                     │
-│  [4]  › contact_info           - Reach out to me                           │
-│  [5]  › exit                   - Close terminal session                    │
-└─────────────────────────────────────────────────────────────────────────────┘
+---
 
-$> 1
-───────────────────────────────────────────────────────────────────────────────
->_ LOADING GITHUB STATISTICS...
-───────────────────────────────────────────────────────────────────────────────
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                           GITHUB ANALYTICS DASHBOARD                        │
-╰─────────────────────────────────────────────────────────────────────────────╯
+<div align="center">
 
-$> github-stats --user=gede-deva-dharma --format=terminal
+## `> tech_stack.load()`
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ┌─────────────────────┐     ┌─────────────────────────────────────────┐  │
-│   │  TOTAL COMMITS      │     │  ████████████████████░░░░░░░░░░░░░░░░░  │  │
-│   │  1,247              │     │  45% of yearly goal                     │  │
-│   └─────────────────────┘     └─────────────────────────────────────────┘  │
-│                                                                             │
-│   ┌─────────────────────┐     ┌─────────────────────────────────────────┐  │
-│   │  CURRENT STREAK     │     │  ████████████████████████████████████   │  │
-│   │  14 days 🔥         │     │  Personal best: 32 days                │  │
-│   └─────────────────────┘     └─────────────────────────────────────────┘  │
-│                                                                             │
-│   ┌─────────────────────┐     ┌─────────────────────────────────────────┐  │
-│   │  PULL REQUESTS      │     │  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░  │  │
-│   │  34 opened          │     │  23 merged                             │  │
-│   └─────────────────────┘     └─────────────────────────────────────────┘  │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+</div>
 
-$> github-chart --type=activity --period=year
+<div align="center">
 
-  Jan ┤■■■■■■■■■■■■■■■■■■■■■■■■■ 247 commits
-  Feb ┤■■■■■■■■■■■■■■■■■■■■■ 198 commits
-  Mar ┤■■■■■■■■■■■■■■■■■■■■■■■ 234 commits
-  Apr ┤■■■■■■■■■■■■■■■■■ 156 commits
-  May ┤■■■■■■■■■■■■■■■ 143 commits
-  Jun ┤■■■■■■■■■■■ 89 commits
-      
-$> _<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gede-deva-dharma&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&hide_border=true&custom_title=GITHUB%20STATS%20%3E_"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gede-deva-dharma&theme=dark&background=0a0a0a&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=00ff00&dates=888888&hide_border=true"/></div><div align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gede-deva-dharma&theme=github-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20STREAM%20%3E_"/> </div>
+<!-- FRONTEND -->
+**— Frontend —**
 
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                           FEATURED REPOSITORIES                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs&theme=dark&perline=8"/>
 
-$> ls -la ./projects/
+<br/>
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ drwxr-xr-x  gede  dev   4096 Jun  1 10:23  nextjs-enterprise/              │
-│ │   │   │                                                                   │
-│ │   │   └── Full-stack SaaS with Auth, Payments, Dashboard                 │
-│ │   └────── 🟢 Tech: Next.js 15, TypeScript, Tailwind, Prisma              │
-│ └─────────── ⭐ 127 stars | 23 forks                                       │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ drwxr-xr-x  gede  dev   4096 May 28 14:15  python-ml-pipeline/              │
-│ │   │   │                                                                   │
-│ │   │   └── ETL pipeline + Model training + FastAPI deployment             │
-│ │   └────── 🐍 Tech: Python, Pandas, Scikit-learn, FastAPI                  │
-│ └─────────── ⭐ 89 stars | 12 forks                                        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ drwxr-xr-x  gede  dev   4096 May 25 09:42  cpp-game-engine/                 │
-│ │   │   │                                                                   │
-│ │   │   └── 2D game engine with ECS and Lua scripting                      │
-│ │   └────── ⚙️ Tech: C++20, OpenGL, CMake, Lua                             │
-│ └─────────── ⭐ 56 stars | 8 forks                                         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ drwxr-xr-x  gede  dev   4096 May 20 17:30  interactive-portfolio/           │
-│ │   │   │                                                                   │
-│ │   │   └── 3D portfolio with WebGL and particle system                    │
-│ │   └────── 🎨 Tech: HTML5, CSS3, Three.js, GSAP                           │
-│ └─────────── ⭐ 234 stars | 45 forks                                       │
-└─────────────────────────────────────────────────────────────────────────────┘
+**— Backend & Systems —**
 
-$> ./view_project --detail=interactive-portfolio
-[OPENING README.md...]
+<img src="https://skillicons.dev/icons?i=python,cpp,nodejs,fastapi,flask&theme=dark&perline=8"/>
 
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                           LANGUAGE DISTRIBUTION                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
+<br/>
 
-$> git log --stat --format=oneline | analysis --lang-stats
+**— Tools & Environment —**
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  JavaScript/TypeScript  ████████████████████████░░░░░░░░░░░░░░░░░░  45%    │
-│  Python                 ████████████████████░░░░░░░░░░░░░░░░░░░░░░  30%    │
-│  C++                    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  15%    │
-│  HTML/CSS               ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%    │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman,bash&theme=dark&perline=8"/>
 
-$> top-langs --detailed
-Next.js/React   : 45% ████████████████████████░░░░░░░░░░░░░░░░░░
-Python          : 30% ████████████████████░░░░░░░░░░░░░░░░░░░░░░
-C++             : 15% ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-HTML/CSS        : 10% ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</div>
 
-<div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-deva-dharma&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&hide_border=true&langs_count=6"/> </div>
+<br/>
 
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                          LAST 7 DAYS ACTIVITY                               │
-╰─────────────────────────────────────────────────────────────────────────────╯
+<!-- SKILL BARS using shields -->
+<div align="center">
 
-$> cat /var/log/dev-activity.log | tail -10
+| Skill | Proficiency |
+|:------|:------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `████████████████████░░░` 85% |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | `████████████████████░░░` 85% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `██████████████████████░` 90% |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `████████████████████░░░` 80% |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | `████████████████████░░░` 80% |
 
-[2026-06-01 22:34:12] >_ commit: nextjs-enterprise - Add authentication middleware
-[2026-05-31 15:20:45] >_ commit: python-ml-pipeline - Optimize data preprocessing
-[2026-05-30 09:15:33] >_ commit: cpp-game-engine - Implement physics collision
-[2026-05-29 18:42:21] >_ commit: interactive-portfolio - Add particle effects
-[2026-05-28 11:08:56] >_ pr_merged: #234 - Fix responsive layout issue
-[2026-05-27 16:30:02] >_ issue_closed: #12 - Update documentation
-[2026-05-26 08:45:19] >_ commit: nextjs-enterprise - Configure CI/CD pipeline
+</div>
 
-$> wakatime --last-7-days
+---
 
-───────────────────────────────────────────────────────────────────────────────
-  Next.js/React    ████████████████████░░░░░░░░░░   12h 24m  ██████████ 45%
-  Python           ████████████░░░░░░░░░░░░░░░░░░    7h 12m  ████████░░ 26%
-  C++              ████████░░░░░░░░░░░░░░░░░░░░░░    4h 48m  ██████░░░░ 17%
-  HTML/CSS/JS      ████░░░░░░░░░░░░░░░░░░░░░░░░░░    2h 24m  ███░░░░░░░  9%
-───────────────────────────────────────────────────────────────────────────────
-  TOTAL: 26 hours 48 minutes
+<div align="center">
 
-$> _
+## `> github_stats.fetch()`
 
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                              CONNECT WITH ME                                │
-╰─────────────────────────────────────────────────────────────────────────────╯
+<br/>
 
-$> ./contact --method=all
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gede-deva-dharma&show_icons=true&theme=tokyonight&bg_color=0a0a1a&title_color=6EE7F7&icon_color=6EE7F7&text_color=c9d1d9&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=GitHub+Stats"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gede-deva-dharma&theme=tokyonight&background=0a0a1a&ring=6EE7F7&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=6EE7F7&sideLabels=6EE7F7&dates=888888&hide_border=true&border_radius=10"/>
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   💼  LinkedIn    :  https://linkedin.com/in/gede-deva-dharma              │
-│   🐙  GitHub      :  https://github.com/gede-deva-dharma                    │
-│   📧  Email       :  gede@dev.com                                          │
-│   🐦  Twitter/X   :  @gede_dev                                             │
-│   💬  Discord     :  gede.dev                                              │
-│                                                                             │
-│   🌐  Portfolio   :  https://gede-deva-dharma.dev                          │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+<br/>
 
-$> echo "Open for collaboration | Available for freelance"
-Open for collaboration | Available for freelance
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gede-deva-dharma&layout=compact&theme=tokyonight&bg_color=0a0a1a&title_color=6EE7F7&text_color=c9d1d9&hide_border=true&border_radius=10&langs_count=6&custom_title=Most+Used+Languages"/>
 
-$> exit
-───────────────────────────────────────────────────────────────────────────────
->_ TERMINAL SESSION ENDED. GOODBYE.
-───────────────────────────────────────────────────────────────────────────────
-<div align="center"> <!-- SNAKE ANIMATION --> <img src="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg" width="100%"/> <!-- TERMINAL FOOTER --> <pre> ╔═══════════════════════════════════════════════════════════════════════════╗ ║ ║ ║ <span style="color:#00ff00;">$> ./developer --status=active --motto="code.inspire.build"</span> ║ ║ ║ ║ ┌─────────────────────────┐ ║ ║ │ © 2026 GEDE DEVA DHARMA │ ║ ║ │ LICENSE: MIT │ ║ ║ └─────────────────────────┘ ║ ║ ║ ╚═══════════════════════════════════════════════════════════════════════════╝ </pre></div> ```
+</div>
+
+---
+
+<div align="center">
+
+## `> activity_graph.render()`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gede-deva-dharma&theme=tokyo-night&bg_color=0a0a1a&color=6EE7F7&line=6EE7F7&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> contribution_snake.play()`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gede-deva-dharma/gede-deva-dharma/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> connect.establish()`
+
+<br/>
+
+<a href="https://linkedin.com/in/gede-deva-dharma">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gededevadharma@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/gede-deva-dharma">
+  <img src="https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code+is+poetry+written+for+machines+and+read+by+humans&author=SkyDev"/>
+
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a3e,100:0a0a1a&height=100&section=footer&animation=fadeIn"/>
+
+</div>
+
+<!-- AUTO SNAKE SETUP — buat file .github/workflows/snake.yml di repo kamu -->
+<!-- https://github.com/Platane/snk -->
